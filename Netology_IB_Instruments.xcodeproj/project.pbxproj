@@ -48,7 +48,7 @@
 		08CC907B27DF733200B54528 = {
 			isa = PBXGroup;
 			children = (
-				08CC908627DF733200B54528 /* Netology_IB_Instruments */,
+				08CC908627DF733200B54528 /* Navigation */,
 				08CC908527DF733200B54528 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +61,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		08CC908627DF733200B54528 /* Netology_IB_Instruments */ = {
+		08CC908627DF733200B54528 /* Navigation */ = {
 			isa = PBXGroup;
 			children = (
 				08CC908727DF733200B54528 /* AppDelegate.swift */,
@@ -76,7 +76,7 @@
 				08ED021B27E113F90067B815 /* Profile.storyboard */,
 				08ED021D27E1142B0067B815 /* ProfileViewController.swift */,
 			);
-			path = Netology_IB_Instruments;
+			path = Navigation;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
